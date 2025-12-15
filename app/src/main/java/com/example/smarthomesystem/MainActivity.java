@@ -13,7 +13,7 @@ public class MainActivity extends AppCompatActivity {
 
     // تعريف قاعدة بيانات Firebase
     private DatabaseReference databaseReference;
-
+   // A7A
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
